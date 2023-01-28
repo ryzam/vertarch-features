@@ -1,2 +1,2 @@
-# vertarch-features
+# verticalarch-features
 Vertical Slice Architecture
