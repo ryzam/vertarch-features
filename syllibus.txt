@@ -1,0 +1,110 @@
+Tentu! Berikut adalah cadangan kandungan latihan pembangunan ASP.NET Core Blazor. Latihan ini dibahagikan kepada beberapa modul yang meliputi konsep asas hingga ke topik yang lebih lanjut dan melibatkan amalan terbaik dalam pembangunan aplikasi menggunakan Blazor. Setiap modul mempunyai topik yang khusus dengan penjelasan dan latihan praktikal.
+
+Modul 1: Pengenalan kepada Blazor
+Apa itu Blazor?
+
+Pengenalan kepada Blazor dan konsep asasnya.
+Perbezaan antara Blazor Server dan Blazor WebAssembly.
+Menyiapkan Persekitaran Pembangunan
+
+Memasang .NET SDK.
+Memasang Visual Studio atau Visual Studio Code.
+Membuat projek Blazor baru.
+Struktur Projek Blazor
+
+Memahami struktur fail dan direktori dalam projek Blazor.
+Fail penting: _Imports.razor, App.razor, MainLayout.razor.
+Modul 2: Komponen Asas Blazor
+Membuat Komponen Blazor
+
+Konsep komponen dalam Blazor.
+Membuat komponen Blazor asas.
+Komunikasi antara komponen (Parameter, EventCallback).
+Razor Syntax
+
+Menggunakan Razor syntax dalam Blazor.
+Menyisipkan C# dalam Razor.
+Mengikat data (Data Binding).
+Pengurusan Acara
+
+Mengendalikan acara dalam Blazor (onclick, onchange, dsb.).
+Membuat dan menggunakan event handlers.
+Modul 3: Routing dan Navigasi
+Routing dalam Blazor
+
+Mengkonfigurasi routing dalam App.razor.
+Menggunakan @page directive untuk menetapkan rute.
+Navigasi antara Komponen
+
+Menggunakan NavLink dan NavigationManager untuk navigasi.
+Parameter dalam URL.
+Modul 4: Pengendalian Data
+State Management
+
+Menggunakan @bind untuk pengikatan data.
+Menggunakan state container untuk pengurusan state di seluruh aplikasi.
+Bekerja dengan Forms
+
+Membuat dan mengurus form dalam Blazor.
+Pengesahan (Validation) menggunakan Data Annotations.
+Modul 5: Berinteraksi dengan API
+HTTP Client
+
+Mengkonfigurasi dan menggunakan HttpClient untuk berinteraksi dengan API.
+Melakukan operasi CRUD menggunakan HttpClient.
+Autentikasi dan Autorizasi
+
+Mengimplementasikan autentikasi menggunakan JWT.
+Melindungi rute dengan AuthorizeView dan [Authorize] attribute.
+Modul 6: Blazor WebAssembly
+Blazor WebAssembly vs Blazor Server
+
+Perbezaan utama antara Blazor WebAssembly dan Blazor Server.
+Kelebihan dan kekurangan setiap pendekatan.
+Menyiapkan Blazor WebAssembly
+
+Membuat projek Blazor WebAssembly.
+Mengkonfigurasi host dan pengedaran aplikasi.
+Modul 7: Blazor Server
+Ciri-ciri Khusus Blazor Server
+
+Model hosting dan komunikasi signalR.
+Pengurusan state dalam Blazor Server.
+Mengoptimalkan Prestasi
+
+Teknik-teknik untuk meningkatkan prestasi aplikasi Blazor Server.
+Mengurangkan penggunaan memori dan latensi.
+Modul 8: Penyebaran Aplikasi Blazor
+Penyediaan untuk Produksi
+
+Mengkonfigurasi aplikasi Blazor untuk penyebaran.
+Teknik penyebaran untuk Blazor WebAssembly dan Blazor Server.
+Menyebarkan ke Pelbagai Platform
+
+Menyebarkan ke Azure, IIS, dan platform lain.
+Modul 9: Amalan Terbaik dan Penyelesaian Masalah
+Amalan Terbaik dalam Pembangunan Blazor
+
+Tips dan trik untuk pembangunan yang lebih efisien.
+Corak reka bentuk yang disyorkan.
+Penyelesaian Masalah Biasa
+
+Debugging dan penyelesaian masalah umum dalam Blazor.
+Menggunakan alat pembangunan (developer tools) untuk diagnosis.
+Modul 10: Projek Akhir
+Projek Mini
+
+Membina aplikasi penuh menggunakan Blazor yang menggabungkan semua konsep yang telah dipelajari.
+Menyelesaikan latihan dan cabaran yang diberikan.
+Review dan Feedback
+
+Menilai dan memberi maklum balas terhadap projek yang telah dibina.
+Diskusi tentang pengalaman dan pembelajaran sepanjang latihan.
+Setiap modul boleh disertakan dengan slaid pembentangan, contoh kod, dan latihan praktikal untuk peserta. Dokumentasi terperinci dan sumber pembelajaran tambahan juga boleh disertakan untuk membantu pemahaman yang lebih mendalam.
+
+
+
+
+
+
+
